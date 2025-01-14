@@ -27,4 +27,8 @@ pip install beautifulsoup4
 
 ```bash
 python netmaster_restart.py
+
+Giriş başarılı!
+Modem yeniden başlatıldı!
+
 ```
