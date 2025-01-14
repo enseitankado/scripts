@@ -13,6 +13,7 @@ HTTP isteklerini yapabilmek için `requests` kütüphanesine ihtiyacınız var.
 
 ```bash
 pip install requests
+```
 
 
 ### 2. `beautifulsoup4` Paketinin Yüklenmesi
@@ -20,9 +21,10 @@ HTML etiketlerinin parsellenmesi için `beautifulsoup4` kütüphanesine ihtiyac�
 
 ```bash
 pip install beautifulsoup4
-
+```
 
 ## Kodu çalıştırmak için
 
 ```bash
 python netmaster_restart.py
+```
