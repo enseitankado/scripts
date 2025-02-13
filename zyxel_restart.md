@@ -1,3 +1,5 @@
+![Zyxel Router Modem](image/zyxel_restart.jpg)
+
 # Python ile Zyxel ADSL Modem (VMG3312 serisi) yeniden başlatma betiği
 
 Bu belge, Python ile modem yönetim panelinde oturum açma ve yeniden başlatma işlemlerini gerçekleştiren script'in çalıştırılabilmesi için gereken kurulum adımlarını içermektedir.
