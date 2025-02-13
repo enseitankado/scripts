@@ -7,7 +7,6 @@ Bu belge, Python ile modem yönetim panelinde oturum açma ve yeniden başlatma 
 Modem sıklıkla kilitleniyorsa bu betiği cron'a ekleyerek kullanabilirsiniz. Betikdeki IP adresini ve modem arayüz parolasını kendinize uygun şekilde güncelleyin:
 
 ```python
-
 # Kullanıcı adı ve şifre
 username = 'admin'
 password = 'parola'
@@ -15,7 +14,7 @@ password = 'parola'
 # Giriş sayfasını alma
 session = requests.Session()
 login_page = session.get('http://192.168.0.1/')
----
+```
 
 ## Gereken Paketlerin Yüklenmesi
 
