@@ -1,3 +1,5 @@
+![Netmaster Cabler Router Modem](image/netmaster-scr.png)
+
 # Python ile Netmaster Kablo Modem (Infinity 401) yeniden başlatma betiği
 
 Bu belge, Python ile modem yönetim panelinde oturum açma ve yeniden başlatma işlemlerini gerçekleştiren script'in çalıştırılabilmesi için gereken kurulum adımlarını içermektedir.
