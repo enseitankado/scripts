@@ -4,7 +4,16 @@
 
 Bu belge, Python ile modem yönetim panelinde oturum açma ve yeniden başlatma işlemlerini gerçekleştiren script'in çalıştırılabilmesi için gereken kurulum adımlarını içermektedir.
 
-Modem sıklıkla kilitleniyorsa bu betiği cron'a ekleyerek kullanabilirsiniz. Betikdeki IP adresini ve modem arayüz parolasını kendinize uygun şekilde güncellemeyi unutmayın.
+Modem sıklıkla kilitleniyorsa bu betiği cron'a ekleyerek kullanabilirsiniz. Betikdeki IP adresini ve modem arayüz parolasını kendinize uygun şekilde güncelleyin:
+
+```python
+# Cihaz IP adresi
+cihaz_ip = '192.168.0.5'  # Bu değeri istediğiniz gibi değiştirebilirsiniz
+
+# Kullanıcı adı ve şifre
+username = 'admin'
+password = 'parola'
+```
 
 ## Gereken Paketlerin Yüklenmesi
 
