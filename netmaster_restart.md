@@ -15,7 +15,7 @@ password = 'parola'
 # Giriş sayfasını alma
 session = requests.Session()
 login_page = session.get('http://192.168.0.1/')
-
+---
 
 ## Gereken Paketlerin Yüklenmesi
 
