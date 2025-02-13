@@ -1,4 +1,4 @@
-![Zyxel Router Modem](image/zyxel_restart.jpg)
+![Zyxel Router Modem](image/zyxel.png)
 
 # Python ile Zyxel ADSL Modem (VMG3312 serisi) yeniden başlatma betiği
 
